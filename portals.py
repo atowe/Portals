@@ -6,3 +6,5 @@ input0=sys.argv[1]
 if input0 == "root":
     os.system('cd..')
     print("hello world")
+    print("I am a banana")
+    print("other stuff")
